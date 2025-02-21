@@ -8,7 +8,7 @@ Uygulamalarınızın web.config dosyalarında bulunan connectionString alanları
 
 
 > [!WARNING]
-> ÖNEMLİ NOT: Sunucuda bu işlemleri yapmadan önce kendi bilgisayarınıza web.config dosyasını kopyalayarak saklamanız önerilir.
+> ÖNEMLİ NOT: Sunucuda bu işlemleri yapmadan önce kendi bilgisayarınıza web.config dosyasını kopyalayarak saklamanızı öneririm.
 
 # İŞLEMLER
 
@@ -41,7 +41,7 @@ Bunun için ekteki PowerShell komutunu (_grant_rsa_permissions.ps1_) yönetici y
 ## 3- web.config Dosyasını Şifreleme
 
 
-Ekte bulunan .bat dosyasını, web.config dosyanızın bulunduğu uygulama dizininize kaydederek "çift tıklayarak" çalıştırınız. Çift tıkladığınız zaman çalıştığı klasörü görebiliyor, sağ tıklarsanız hata ile karşılaşabilirsiniz.
+Ekte bulunan .bat dosyasını (_encrypt_web_config.bat_), web.config dosyanızın bulunduğu uygulama dizininize kaydederek "çift tıklayarak" çalıştırınız. Çift tıkladığınız zaman çalıştığı klasörü görebiliyor, sağ tıklarsanız hata ile karşılaşabilirsiniz.
 
 Başarılı olursanız aşağıdaki çıktıyı görmelisiniz:
 
