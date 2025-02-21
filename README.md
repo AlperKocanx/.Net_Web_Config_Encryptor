@@ -1,5 +1,5 @@
 # .Net_Web_Config_Encryptor
-.Net uygulamalarınızda bulunan web.config dosyalarınızın connectionStrings alanını şifrelemek için kullanabileceğiniz bir dizi açıklama içerir.
+.Net uygulamalarınızda bulunan web.config dosyalarınızın connectionStrings alanını şifrelemek için kullanabileceğiniz bir dizi açıklama ve otomatik işlemler için komut dosyaları içerir.
 
 Uygulamalarınızın web.config dosyalarında bulunan connectionString alanlarını encrypt ederek açıkta duran kullanıcı adı ve şifrelerinizi saklamanızı sağlar.
 
